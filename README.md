@@ -1,2 +1,2 @@
 # Google-Cloud-Platform
-Repo consist of Google Cloud Platform course provided by Coursera
+Repo consist of Google Cloud Platform course provided by Coursera..
